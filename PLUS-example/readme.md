@@ -1,9 +1,0 @@
-This is a 3d viewers that should display 3D goespatial geometrical elements:
-
-Point Cloud data
-
-3D contours
-
-Digital elevation Model in TIF format.
-
-The content of the data files and frontend are static files.
